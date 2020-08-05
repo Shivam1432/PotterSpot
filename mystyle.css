@@ -1,0 +1,253 @@
+@import url(http://fonts.googleapis.com/css?family=Garamond);
+ h3 {
+    font-family:'Garamond', serif;
+    text-align: center;
+    color:#8B4726;
+}
+h2{
+    font-family:'Garamond', serif;
+    text-align: center;
+    color:#8B4726;
+}
+h4
+{
+    font-family:'Garamond', serif;
+    text-align: center;
+    color:#8B4726;
+    margin-top:25px;
+}
+li {
+    font-family:'Garamond';
+    font-size: 2em;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+p {
+    font-family:"Garamond", serif;
+    width:80%;
+    margin-right:10%;
+    margin-left:10%;
+}
+body{
+    background-image: url("1map.jpg");
+    background-position: relative;
+}
+nav{
+    color:black;
+    font-family: aquiline;
+    margin-top:0%;
+    height:auto;
+    font-size:1em;
+}
+a:visited {
+    text-decoration: none;
+}
+ul li{
+    list-style-type: none;
+}
+.modal{
+   background-image:url("navbarbg1.jpg");
+}
+.modal-body{
+
+}
+.logo{
+    text-align:center;
+    margin-right:10%;
+    height:auto;
+    width:auto;
+}
+.head1{
+    font-size:60px;
+    color:#DAA520;
+    font-family: Garamond;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.subtitle
+{
+    font-family: Garamond;
+    text-align: center;
+    font-size:16px;
+    margin-right:;
+    margin-left:35%;
+    margin-right:35%;
+    font-weight: bolder;
+    color:black;
+}
+.navbar{
+	height:auto;}
+	
+.h{
+    width:100%;
+    height:auto;
+    margin-top:0px;
+    background-color:darkred;
+    background-position: absolute;
+}
+.contains{
+    width:auto;
+    margin-left:10%;
+    margin-right:10%;
+    background-color:#FFEFD5;
+    height:auto;
+}
+.layer{
+    margin-top:5%;
+    background-color: #8B4726;
+    width:auto;
+    margin-left:10%;
+    margin-right:10%;
+    height: 10px;
+}
+.layer1{
+    margin-top:5%;
+    background-color: #8B4726;
+    width:50%;
+    margin-left:25%;
+    margin-right:25%;
+    height: 10px;
+}
+.media-border{
+    color:#8B4726;
+    border-width: 2px;
+}
+#slide1
+{
+   width:auto;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
+    margin-bottom:5%;
+    align-items: center;
+    height:auto;
+}
+#slide2
+{
+   width:auto;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
+    margin-bottom:5%;
+    height:auto;
+}
+#slide3
+{
+   width:auto;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
+    margin-bottom:5%;
+    height:auto;
+}
+#fin{
+    margin-left:18%;
+}
+.caption
+{
+    margin-left:40%;
+}
+.result1{
+    background-color:#FFE4B5;
+    width:50%;
+    margin-left:25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    height:auto;
+    text-align: center;
+}
+div.solid{
+    outline-width:5px;
+    outline-color:#FFE4B5;
+    outline-style: solid;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+    background-color:#8B4726;
+    padding:5px;
+    margin-top:5%;
+    margin-bottom:5%; 
+
+}
+/* Quiz Classes */
+ .quizContainer {
+
+    background-image:url("hogwarts.jpg");
+    border-radius: 6px;
+    padding-top: 5px;
+    position: relative;
+     padding-top: 5px;
+     margin-top:2.5%;
+    position: relative;
+    width:75%;
+    margin-left:12.5%;
+    margin-right:12.5%;
+    margin-bottom:8%;
+    margin-top:5%;
+}
+.nextButton {
+    box-shadow: 3px 3px 5px #888;
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color: lightgrey;
+    /*clear: both;*/
+    color: red;
+    font-family:'Garamond';
+    position: relative;
+    margin:auto;
+    padding: 10px;
+}
+.question {
+    font-family:'Garamond';
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color: lightgrey;
+    text-align: center;
+}
+.quizMessage {
+    background-color: peachpuff;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    font-family:'Garamond';
+    color: red;
+}
+.choiceList {
+    font-family: "Garamond";
+    color: black;
+}
+.result {
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    background-color: linen;
+    margin: auto;
+    text-align: center;
+    font-family:'Garamond', serif;
+}
+.modal-dialog{
+    background-color:#000080;
+}
+.modal-body{
+    background-color:#7B68EE;
+    background-image:url("bg1.jpg");
+    color:#66CD00;
+}
+.modal-header{
+    background-color:#66CD00;
+    background-image:url("bg1.jpg");
+}
+ol li{
+    color:#8B2500;
+}
